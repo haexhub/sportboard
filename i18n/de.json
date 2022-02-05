@@ -1,0 +1,38 @@
+{
+  "navbar": {
+    "settings": {
+      "label": "Einstellungen"
+    },
+    "account": {
+      "label": "Account"
+    },
+    "overview": {
+      "label": "Übersicht"
+    }
+  },
+
+  "sidebar": {
+    "close": {
+      "label": "Schließen"
+    },
+
+    "overview": {
+      "mood": {
+        "all": "alle"
+      },
+      "training": {
+        "all": "alle",
+        "assigned": "zugewiesen",
+        "label": "Trainings",
+        "scheduled": "eingeplant"
+      }
+    },
+
+    "settings": {
+      "language": {
+        "label": "Spracheinstellung"
+      }
+    }
+    
+  }
+}

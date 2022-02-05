@@ -1,0 +1,26 @@
+{
+  "navbar": {
+    "settings": {
+      "label": "Settings"
+    },
+    "account": {
+      "label": "Account"
+    },
+    "overview": {
+      "label": "Overview"
+    }
+  },
+
+  "sidebar": {
+    "close": {
+      "label": "Close"
+    },
+    "menu": {
+      "settings": {
+        "language": {
+          "label": "Language Settings"
+        }
+      }
+    }
+  }
+}
